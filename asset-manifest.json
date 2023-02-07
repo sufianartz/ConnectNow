@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/ConnectNow/static/css/main.cdfba8ab.css",
-    "main.js": "/ConnectNow/static/js/main.d0d7de89.js",
-    "index.html": "/ConnectNow/index.html",
-    "main.cdfba8ab.css.map": "/ConnectNow/static/css/main.cdfba8ab.css.map",
-    "main.d0d7de89.js.map": "/ConnectNow/static/js/main.d0d7de89.js.map"
+    "main.css": "/connectnow/static/css/main.cdfba8ab.css",
+    "main.js": "/connectnow/static/js/main.d0d7de89.js",
+    "index.html": "/connectnow/index.html",
+    "main.cdfba8ab.css.map": "/connectnow/static/css/main.cdfba8ab.css.map",
+    "main.d0d7de89.js.map": "/connectnow/static/js/main.d0d7de89.js.map"
   },
   "entrypoints": [
     "static/css/main.cdfba8ab.css",
